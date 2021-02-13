@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1612520117 source:c:\portablegit\zadaci\Параграф_56\задача_f\main.cpp
+	<iostream>
+	<cmath>
+	<iomanip>
+
